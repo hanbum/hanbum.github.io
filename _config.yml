@@ -3,4 +3,5 @@ gems:
 - jemoji
 - jekyll-redirect-from
 
-timezone:Asia/Seoul
+timezone:  Asia/Seoul
+
