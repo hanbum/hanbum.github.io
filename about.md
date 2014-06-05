@@ -3,20 +3,20 @@ layout: page
 title: About
 ---
 
-Just a blog. by Hanbum Kim
+Just a blog. <br/>by Hanbum Kim
 
 <br/>
 Entrepreneur. Software Developer. Designer.
 
 <br/>
-Recent works..
-[GoodTask](http://goodtaskapp.com)
-[My Wonderful Days](http://mywonderfulapps.com)
+Recent works..<br/>
+[GoodTask](http://goodtaskapp.com)<br/>
+[My Wonderful Days](http://mywonderfulapps.com)<br/>
 &..
 
 
 <br/><br/>
-Previous works..
-[OilMan](http://oilmanapp.com)
-[haha interactive, co.](http://hahainteractive.com)
+Previous works..<br/>
+[OilMan](http://oilmanapp.com)<br/>
+[haha interactive, co.](http://hahainteractive.com)<br/>
 & ..
