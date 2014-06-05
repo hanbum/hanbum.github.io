@@ -1,7 +1,7 @@
-title:            Just a blog. by Tiger Kim
+title:            Just a blog. by Hanbum Kim
 description:      Just a blog
 url:              http://tigerkim.kr # Site url.
-signoff:          Tiger Kim # Your name.
+signoff:          Hanbum Kim # Your name.
 disqus_shortname: tigerkim # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   228412920698625 # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: UA-10260540-3 # set tracking, remove from /javascripts/basic.js if unwanted.
